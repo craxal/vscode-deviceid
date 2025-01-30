@@ -16,7 +16,8 @@
                 "/guard:cf",
                 "/we4244",
                 "/we4267",
-                "/ZH:SHA_256"
+                "/ZH:SHA_256",
+                "/Qspectre"
               ]
             },
             "VCLinkerTool": {
